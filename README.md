@@ -25,7 +25,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-Text
+Leopard - Text
 <param ve-image 
        label="Leopard" 
        description="A Photograph Taken By Aurélien JEANNE" 
@@ -33,7 +33,7 @@ Text
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/Zoo_African_Safari_%287757317722%29.jpg">
 
 
-Text
+Bird's Eye View - Text
 <param ve-image 
        label="Bird's Eye View " 
        description="A Photograph Taken By Azim Khan Ronnie" 
